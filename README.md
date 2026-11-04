@@ -1,4 +1,4 @@
-# github-learning
+# github
 
 A small Python project for learning Git and GitHub step by step.
 
